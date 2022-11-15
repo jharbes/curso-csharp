@@ -1,0 +1,17 @@
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\bin\Debug\net6.0-windows\WindowsEx000.exe
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\bin\Debug\net6.0-windows\WindowsEx000.deps.json
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\bin\Debug\net6.0-windows\WindowsEx000.runtimeconfig.json
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\bin\Debug\net6.0-windows\WindowsEx000.dll
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\bin\Debug\net6.0-windows\WindowsEx000.pdb
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.Form1.resources
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.dll
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\refint\WindowsEx000.dll
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.pdb
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\WindowsEx000.genruntimeconfig.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\WindowsEx000\obj\Debug\net6.0-windows\ref\WindowsEx000.dll
