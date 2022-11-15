@@ -6,5 +6,10 @@ namespace WindowsEx000
         {
             InitializeComponent();
         }
+
+        private void btn_Click(object sender, EventArgs e)
+        {
+            lblMsg.Text = "Olá, Mundo!"; 
+        }
     }
 }

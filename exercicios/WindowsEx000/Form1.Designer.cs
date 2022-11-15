@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.btn = new System.Windows.Forms.Button();
-            this.LblMsg = new System.Windows.Forms.Label();
+            this.lblMsg = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btn
@@ -41,22 +41,23 @@
             this.btn.TabIndex = 0;
             this.btn.Text = "Clique em mim!";
             this.btn.UseVisualStyleBackColor = true;
+            this.btn.Click += new System.EventHandler(this.btn_Click);
             // 
-            // LblMsg
+            // lblMsg
             // 
-            this.LblMsg.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.LblMsg.Location = new System.Drawing.Point(44, 30);
-            this.LblMsg.Name = "LblMsg";
-            this.LblMsg.Size = new System.Drawing.Size(707, 106);
-            this.LblMsg.TabIndex = 1;
-            this.LblMsg.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblMsg.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblMsg.Location = new System.Drawing.Point(44, 30);
+            this.lblMsg.Name = "lblMsg";
+            this.lblMsg.Size = new System.Drawing.Size(707, 106);
+            this.lblMsg.TabIndex = 1;
+            this.lblMsg.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.LblMsg);
+            this.Controls.Add(this.lblMsg);
             this.Controls.Add(this.btn);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
@@ -70,6 +71,6 @@
         #endregion
 
         private Button btn;
-        private Label LblMsg;
+        private Label lblMsg;
     }
 }
