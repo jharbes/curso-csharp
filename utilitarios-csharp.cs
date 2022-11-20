@@ -3,6 +3,8 @@ System.Console.Out.Write("mensagem"); // Imprimir em console sem pular linha.
 
 System.Console.ReadKey(); // Comando para ficar aguardando aperto de tecla para finalizar programa
 
+System.Console.Clear(); // Limpa a tela de console
+
 /*
 
 Como importamos a biblioteca System podemos suprimir esse comando nas opções acima

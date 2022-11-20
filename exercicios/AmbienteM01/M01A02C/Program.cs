@@ -14,4 +14,4 @@ Console.WriteLine(@"\Estudonauta\"); // o arroba retira a formataçao de contrab
 Console.WriteLine("\"Estudonauta\""); // Maneira de mostrar aspas dentro da string com \"
 
 Console.WriteLine("\n\n");
-Console.WriteLine("C# é\n\"SUPER\"\nFácil!");
+Console.WriteLine("C# é\n\"SUPER\"\nFácil!\a");
