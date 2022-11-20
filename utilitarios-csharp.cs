@@ -15,3 +15,15 @@ podemos suprimir tudo ficando apenas WriteLine("mensagem");
 e ReadKey();
 
 */
+
+Sequencias de escape em C#:
+
+\n -> Nova linha, pula linha dentro de uma string.
+\t -> Tabulacao, como se apertasse a tecla tab.
+\b -> Backspace, volta uma letra
+\a -> Alerta, faz barulho sempre que encontrar o \a.
+\r -> Retorno, retorna para o inicio da tela
+\\ -> Mostra uma contrabarra
+\" -> Mostra aspas.
+
+
