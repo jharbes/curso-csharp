@@ -25,5 +25,6 @@ Sequencias de escape em C#:
 \r -> Retorno, retorna para o inicio da tela
 \\ -> Mostra uma contrabarra
 \" -> Mostra aspas.
+System.Console.Out.WriteLine(@"mensagem"); // O arroba na frente da string cancela qualquer formatacao feito com alguma sequencia de escape que tenha por ventura sido feita.
 
 
