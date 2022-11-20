@@ -1,4 +1,5 @@
-System.Console.Out.WriteLine("mensagem"); // Imprimir em console
+System.Console.Out.WriteLine("mensagem"); // Imprimir em console pulando linha.
+System.Console.Out.Write("mensagem"); // Imprimir em console sem pular linha.
 
 System.Console.ReadKey(); // Comando para ficar aguardando aperto de tecla para finalizar programa
 
