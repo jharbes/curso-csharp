@@ -39,3 +39,34 @@ Console.WriteLine("\nO tipo long vai de " + long.MinValue + " até " + long.MaxV
 // TIPO ULONG - unsigned long (long sem sinal) *** OCUPA 8 BYTES DE MEMORIA
 // O tipo ulong vai de 0 até 18446744073709551615
 Console.WriteLine("\nO tipo ulong vai de " + ulong.MinValue + " até " + ulong.MaxValue);
+
+
+// TIPO CHAR
+
+
+// TIPO STRING
+
+
+// TIPO FLOAT *** OCUPA 32 BITS
+// O tipo float vai de -3,4028235E+38 até 3,4028235E+38
+Console.WriteLine("\nO tipo float vai de " + float.MinValue + " até " + float.MaxValue);
+
+// TIPO DOUBLE *** OCUPA 64 BITS
+// O tipo double vai de -1,7976931348623157E+308 até 1,7976931348623157E+308
+Console.WriteLine("\nO tipo double vai de " + double.MinValue + " até " + double.MaxValue);
+
+// TIPO DECIMAL *** OCUPA 128 BITS
+// O tipo decimal vai de -79228162514264337593543950335 até 79228162514264337593543950335
+Console.WriteLine("\nO tipo decimal vai de " + decimal.MinValue + " até " + decimal.MaxValue);
+
+// TIPO BOOL *** Tipo lógico (V ou F)
+
+
+// TIPO ENUM
+
+
+// TIPO STRUCT
+
+
+// TIPO OBJECT
+
