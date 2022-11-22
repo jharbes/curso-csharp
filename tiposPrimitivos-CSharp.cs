@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("AULA DE TIPOS PRIMITIVOS EM C#\n");
+// TIPOS PRIMITIVOS EM C#
 
 
 // TIPO BYTE
@@ -13,5 +12,7 @@ Console.WriteLine("\nO tipo sbyte vai de " + sbyte.MinValue + " até " + sbyte.M
 
 
 // TIPO SHORT
-//
+// O tipo short vai de -32768 até 32767
 Console.WriteLine("\nO tipo short vai de "+short.MinValue+" até "+short.MaxValue);
+
+
