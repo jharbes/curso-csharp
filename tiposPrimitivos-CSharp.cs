@@ -1,6 +1,13 @@
 Console.WriteLine("AULA DE TIPOS PRIMITIVOS EM C#\n");
 
 
+var x=2; // Na declaracao var ele deve ter algum valor inicializado para que o sistema possa efetuar a escolha do tipo da variavel em questão
+
+int y; // No caso da inicialização com o tipo não é necessário que haja um valor pré estabelecido para a variável
+
+
+
+
 // TIPO BYTE (apenas positivos) *** OCUPA APENAS 1 BYTE DE MEMORIA
 // O tipo byte vai de 0 a 255 e NÃO ADMITE NUMEROS NEGATIVOS
 Console.WriteLine("O tipo byte vai de " + byte.MinValue + " até " + byte.MaxValue);
@@ -67,7 +74,10 @@ decimal estrela = 4.9847373723m;
 decimal estrela1 = (decimal)4.9847373723;
 Console.WriteLine("\nO tipo decimal vai de " + decimal.MinValue + " até " + decimal.MaxValue);
 
+
 // TIPO BOOL *** Tipo lógico (V ou F)
+bool aprovado=false;
+Console.WriteLine("\nO tipo de aprovado é "+aprovado.GetType().Name);
 
 
 // TIPO ENUM

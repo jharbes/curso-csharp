@@ -19,3 +19,8 @@ decimal estrela1 = (decimal)4.9847373723;
 
 bool aprovado=false;
 Console.WriteLine("\nO tipo de aprovado é "+aprovado.GetType().Name);
+
+
+var x=2; // Na declaracao var ele deve ter algum valor inicializado para que o sistema possa efetuar a escolha do tipo da variavel em questão
+
+int y; // No caso da inicialização com o tipo não é necessário que haja um valor pré estabelecido para a variável
