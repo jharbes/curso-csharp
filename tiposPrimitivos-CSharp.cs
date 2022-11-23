@@ -49,14 +49,22 @@ Console.WriteLine("\nO tipo ulong vai de " + ulong.MinValue + " até " + ulong.M
 
 // TIPO FLOAT *** OCUPA 32 BITS
 // O tipo float vai de -3,4028235E+38 até 3,4028235E+38
+// Todo float deve vir escrito (float) antes do numero ou f após
+float media = (float)4.5;
+float media1 = 5.2f;
 Console.WriteLine("\nO tipo float vai de " + float.MinValue + " até " + float.MaxValue);
+
 
 // TIPO DOUBLE *** OCUPA 64 BITS
 // O tipo double vai de -1,7976931348623157E+308 até 1,7976931348623157E+308
 Console.WriteLine("\nO tipo double vai de " + double.MinValue + " até " + double.MaxValue);
 
+
 // TIPO DECIMAL *** OCUPA 128 BITS
 // O tipo decimal vai de -79228162514264337593543950335 até 79228162514264337593543950335
+// Todo decimal deve vir escrito (decimal) antes ou com a letra m no final
+decimal estrela = 4.9847373723m;
+decimal estrela1 = (decimal)4.9847373723;
 Console.WriteLine("\nO tipo decimal vai de " + decimal.MinValue + " até " + decimal.MaxValue);
 
 // TIPO BOOL *** Tipo lógico (V ou F)
