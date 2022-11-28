@@ -38,3 +38,21 @@ float c = 8;
 int d = (int)c;
 Console.WriteLine("O valor de c é " + c + " do tipo " + c.GetType().Name);
 Console.WriteLine("O valor de d é " + d + " do tipo " + d.GetType().Name);
+
+
+// Conversao explicita float -> int, mas agora convertemos um numero com casas decimais para int, o resultado sera o "truncamento" do numero, preservando apenas a parte inteira.
+
+float e = 8.75f;
+int f = (int)c;
+Console.WriteLine("\nO valor de e é " + e + " do tipo " + e.GetType().Name);
+Console.WriteLine("O valor de f é " + f + " do tipo " + f.GetType().Name);
+
+
+
+// Conversao utilizando classes Auxiliares float -> int, agora utilizaremos metodos de classes auxiliares para efetuar as conversoes;
+
+float g = 5;
+int h = Convert.ToInt16(g);
+
+Console.WriteLine("\nO valor de g é " + g + " do tipo " + g.GetType().Name);
+Console.WriteLine("O valor de h é " + h + " do tipo " + h.GetType().Name);
