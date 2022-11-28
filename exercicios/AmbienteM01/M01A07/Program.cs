@@ -52,10 +52,10 @@ Console.WriteLine("\nO valor de e é " + e + " do tipo " + e.GetType().Name);
 Console.WriteLine("O valor de f é " + f + " do tipo " + f.GetType().Name);
 
 
-// Conversao utilizando classes Auxiliares float -> int, agora utilizaremos metodos de classes auxiliares para efetuar as conversoes;
+// Conversao utilizando classes Auxiliares float -> int, agora utilizaremos metodos de classes auxiliares para efetuar as conversoes; nesse caso existe o arrendondamento e nao simplesmente o trucamento
 
-float g = 5;
+float g = 8.75f;
 int h = Convert.ToInt16(g);
 
 Console.WriteLine("\nO valor de g é " + g + " do tipo " + g.GetType().Name);
-Console.WriteLine("O valor de h é " + h + " do tipo " + h.GetType().Name);
+Console.WriteLine("O valor de h é " + h + " do tipo " + h.GetType().Name); // Resultado nao sera mais 8 e sim 9.(Arredondamento)
