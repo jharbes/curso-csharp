@@ -11,6 +11,7 @@ namespace M01A08B
         {
             string nome=txtNome.Text;
             lblMsg.Text = "Muito prazer em te conhecer " + nome;
+            lblMsg.Visible = true;
         }
     }
 }

@@ -68,6 +68,7 @@
             this.lblMsg.Size = new System.Drawing.Size(66, 15);
             this.lblMsg.TabIndex = 3;
             this.lblMsg.Text = "Mensagem";
+            this.lblMsg.Visible = false;
             // 
             // Form1
             // 
@@ -78,7 +79,9 @@
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
