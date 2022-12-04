@@ -72,6 +72,7 @@
             // 
             // Form1
             // 
+            this.AcceptButton = this.btnOk;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(530, 307);
@@ -79,7 +80,9 @@
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.txtN1);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
