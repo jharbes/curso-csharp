@@ -1,0 +1,17 @@
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\bin\Debug\net6.0-windows\M01A11B.exe
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\bin\Debug\net6.0-windows\M01A11B.deps.json
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\bin\Debug\net6.0-windows\M01A11B.runtimeconfig.json
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\bin\Debug\net6.0-windows\M01A11B.dll
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\bin\Debug\net6.0-windows\M01A11B.pdb
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\M01A11B.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\M01A11B.Form1.resources
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\M01A11B.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\M01A11B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\M01A11B.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\M01A11B.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\M01A11B.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\M01A11B.dll
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\refint\M01A11B.dll
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\M01A11B.pdb
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\M01A11B.genruntimeconfig.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A11B\obj\Debug\net6.0-windows\ref\M01A11B.dll
