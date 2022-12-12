@@ -6,5 +6,10 @@ namespace M01A12B
         {
             InitializeComponent();
         }
+
+        private void btnOk_Click(object sender, EventArgs e)
+        {
+            lblMsg.Text = $"O ano atual é {DateTime.Now.Year}!!!";
+        }
     }
 }
