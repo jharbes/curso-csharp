@@ -1,0 +1,15 @@
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\bin\Debug\net6.0\M01A12A.exe
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\bin\Debug\net6.0\M01A12A.deps.json
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\bin\Debug\net6.0\M01A12A.runtimeconfig.json
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\bin\Debug\net6.0\M01A12A.dll
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\bin\Debug\net6.0\M01A12A.pdb
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\obj\Debug\net6.0\M01A12A.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\obj\Debug\net6.0\M01A12A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\obj\Debug\net6.0\M01A12A.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\obj\Debug\net6.0\M01A12A.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\obj\Debug\net6.0\M01A12A.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\obj\Debug\net6.0\M01A12A.dll
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\obj\Debug\net6.0\refint\M01A12A.dll
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\obj\Debug\net6.0\M01A12A.pdb
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\obj\Debug\net6.0\M01A12A.genruntimeconfig.cache
+C:\Users\Jorge\Desktop\Estudonauta\curso-csharp\exercicios\AmbienteM01\M01A12A\obj\Debug\net6.0\ref\M01A12A.dll
