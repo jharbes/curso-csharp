@@ -7,7 +7,7 @@ string nome = Console.ReadLine();
 
 Console.WriteLine("Olá "+nome+"! Tudo bem?");
 
-// EXEMPLO com interpolacao:
+// EXEMPLO com interpolacao, basta adicionar o $ na frente da string a ser digitada:
 
 Console.WriteLine($"Olá {nome}! Tudo bem?");
 
