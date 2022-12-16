@@ -1,5 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-
 // FORMATACAO DE STRINGS INTERPOLADAS EM C#
 
 
@@ -25,5 +23,4 @@ Console.WriteLine($"\nO {nome,-10} ganha {sal,20:C3} por mês"); // No caso o C3
  */
 
 Console.WriteLine($"\nO {nome,-10} tem {idade,-5:D3} anos e ganha {sal,20:C2} por mês"); // O D3 completa o numero com zeros na frente caso o numero em questao tenha menos algarismos que o numero escolhido apos a letra D.
-
 
