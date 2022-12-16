@@ -26,4 +26,12 @@ Console.WriteLine($"\nO {nome,-10} ganha {sal,20:C3} por mês"); // No caso o C3
 
 Console.WriteLine($"\nO {nome,-10} tem {idade,-5:D3} anos e ganha {sal,20:C2} por mês"); // O D3 completa o numero com zeros na frente caso o numero em questao tenha menos algarismos que o numero escolhido apos a letra D.
 
+int num = 13;
 
+Console.WriteLine($"\nO número {num} em hexadecimal é {num:X}");
+
+float val = 44679.003f;
+
+Console.WriteLine($"\nO valor foi {val:N2}."); // Nesse caso ele formata o numero com duas casas decimais, virgula nas casas decimais e ponto na casa dos milhares
+
+Console.WriteLine($"\nO valor foi {val:E}."); // Com saida em notacao cientifica
