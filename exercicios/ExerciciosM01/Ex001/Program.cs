@@ -16,7 +16,7 @@ System.Threading.Thread.Sleep(1000);
 
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.BackgroundColor=ConsoleColor.Green;
-Console.Write(" BRASILEIRO ");
+Console.WriteLine(" BRASILEIRO \n\n\n");
 System.Threading.Thread.Sleep(1000);
 
 Console.ResetColor();
