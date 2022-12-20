@@ -2,9 +2,9 @@
 
 
 
-Console.SetCursorPosition(10, 3);
+Console.SetCursorPosition(10, 4);
 
-Console.ForegroundColor= ConsoleColor.Yellow;
+Console.ForegroundColor= ConsoleColor.White;
 Console.BackgroundColor = ConsoleColor.Blue;
 Console.Write(" MEU ");
 System.Threading.Thread.Sleep(1000);
