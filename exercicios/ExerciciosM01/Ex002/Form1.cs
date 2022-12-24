@@ -13,17 +13,17 @@ namespace Ex002
             lblMsg2.Visible = true;
             lblMsg3.Visible = true;
 
-            await Task.Delay(2000);
+            await Task.Delay(1000);
 
             lblMsg.BackColor = Color.Blue;
             lblMsg.ForeColor = Color.White;
 
-            await Task.Delay(2000);
+            await Task.Delay(1000);
 
             lblMsg2.BackColor = Color.Yellow;
             lblMsg2.ForeColor = Color.Green;
 
-            await Task.Delay(2000);
+            await Task.Delay(1000);
 
             lblMsg3.BackColor = Color.Green;
             lblMsg3.ForeColor = Color.Yellow;

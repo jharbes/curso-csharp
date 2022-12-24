@@ -36,6 +36,7 @@
             // 
             // btnIniciar
             // 
+            this.btnIniciar.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btnIniciar.Location = new System.Drawing.Point(173, 186);
             this.btnIniciar.Name = "btnIniciar";
             this.btnIniciar.Size = new System.Drawing.Size(104, 37);
@@ -53,6 +54,7 @@
             this.lblMsg.Size = new System.Drawing.Size(94, 40);
             this.lblMsg.TabIndex = 1;
             this.lblMsg.Text = " MEU ";
+            this.lblMsg.Visible = false;
             // 
             // lblMsg2
             // 
@@ -63,6 +65,7 @@
             this.lblMsg2.Size = new System.Drawing.Size(123, 40);
             this.lblMsg2.TabIndex = 2;
             this.lblMsg2.Text = " BRASIL ";
+            this.lblMsg2.Visible = false;
             // 
             // lblMsg3
             // 
@@ -73,6 +76,7 @@
             this.lblMsg3.Size = new System.Drawing.Size(185, 40);
             this.lblMsg3.TabIndex = 3;
             this.lblMsg3.Text = " BRASILEIRO ";
+            this.lblMsg3.Visible = false;
             // 
             // Form1
             // 
